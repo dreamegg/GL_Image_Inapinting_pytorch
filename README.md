@@ -1,4 +1,4 @@
-# Implementation of "Globally and Locally Consistent Image Completion" with pytorch
+# Globally and Locally Consistent Image Completion in pytorch
 
 ```
   "Globally and Locally Consistent Image Completion"
@@ -9,7 +9,7 @@
 This is an implementation of the image completion model proposed in the paper
 ([Globally and Locally Consistent Image Completion](
 http://hi.cs.waseda.ac.jp/%7Eiizuka/projects/completion/data/completion_sig2017.pdf))
-with Pytorch 0.4.
+in Pytorch 0.4.
 
 
 # Requirements
@@ -20,11 +20,11 @@ with Pytorch 0.4.
 - argparser
 - etc (PIL, tqdm...)
 # Result
-![](results/208_compare_gl.jpg)
+![](result/208_compare_gl.jpg)
 
-![](results/474_compare_gl.jpg)
+![](result/474_compare_gl.jpg)
 
-![](results/487_compare_gl.jpg)
+![](result/487_compare_gl.jpg)
 # Usage
 
 ## I. Prepare the training data
