@@ -62,5 +62,20 @@ $ python eval.py
  - GLCIC in tnesorflow (https://github.com/tadax/glcic)
  - Code Base (https://github.com/pytorch/examples/tree/master/super_resolution)
  
+ ## Citation
+Please cite the original paper in your publications:
+```
+@Article{IizukaSIGGRAPH2017,
+  author = {Satoshi Iizuka and Edgar Simo-Serra and Hiroshi Ishikawa},
+  title = {{Globally and Locally Consistent Image Completion}},
+  journal = "ACM Transactions on Graphics (Proc. of SIGGRAPH)",
+  year = 2017,
+  volume = 36,
+  number = 4,
+  pages = 107:1--107:14,
+  articleno = 107,
+}
+```
+ 
 #Implementation Author
  chankyoo.moon / [@dreamegg](https://github.com/dreamegg)
