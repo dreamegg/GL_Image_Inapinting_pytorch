@@ -15,7 +15,7 @@ from TensorData_Loader import save_img, get_data_set
 # Testing settings
 parser = argparse.ArgumentParser(description='2 Stage RestoNet-PyTorch-implementation')
 parser.add_argument('--label', default='compare_gl' , help='facades')
-parser.add_argument('--datasetPath', default='../../dataset/Facade' , help='facades')
+parser.add_argument('--datasetPath', default='../dataset/Facade' , help='facades')
 
 parser.add_argument('--G_model', type=str, default="gl")
 
