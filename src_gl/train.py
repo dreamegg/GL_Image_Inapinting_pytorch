@@ -25,7 +25,7 @@ import argparse
 # Training settings
 parser = argparse.ArgumentParser(description='Globally and Locally Consistent Image Completion')
 parser.add_argument('--label', default='compare_gl' , help='facades')
-parser.add_argument('--datasetPath', default='../../dataset/Facade' , help='facades')
+parser.add_argument('--datasetPath', default='../dataset/Facade' , help='facades')
 
 parser.add_argument('--resume_epoch', default=0 , help='facades')
 parser.add_argument('--nEpochs', type=int, default=3*1000, help='number of epochs to train for')
