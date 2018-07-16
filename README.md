@@ -11,7 +11,7 @@ This is an implementation of the image completion model proposed in the paper
 http://hi.cs.waseda.ac.jp/%7Eiizuka/projects/completion/data/completion_sig2017.pdf))
 in Pytorch 0.4.
 
-![](35_compare_gl.jpg)
+![](result/35_compare_gl.jpg)
 # Requirements
 
 - Python 3
@@ -62,5 +62,5 @@ $ python eval.py
  - GLCIC in tnesorflow (https://github.com/tadax/glcic)
  - Code Base (https://github.com/pytorch/examples/tree/master/super_resolution)
  
- #Implementation Author
- chankyoo.moon / @dreamegg
+#Implementation Author
+ chankyoo.moon / [@dreamegg](https://github.com/dreamegg)
