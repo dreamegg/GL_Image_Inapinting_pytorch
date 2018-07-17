@@ -62,7 +62,7 @@ $ python eval.py
  - GLCIC in tnesorflow (https://github.com/tadax/glcic)
  - Code Base (https://github.com/pytorch/examples/tree/master/super_resolution)
  
- ## Citation
+# Citation
 Please cite the original paper in your publications:
 ```
 @Article{IizukaSIGGRAPH2017,
