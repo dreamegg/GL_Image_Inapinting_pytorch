@@ -57,7 +57,7 @@ $ python eval.py
 
 ![](result/487_compare_gl.jpg)
 
-#Related works
+# Related works
 - Author Code (https://github.com/satoshiiizuka/siggraph2017_inpainting)
  - GLCIC in tnesorflow (https://github.com/tadax/glcic)
  - Code Base (https://github.com/pytorch/examples/tree/master/super_resolution)
